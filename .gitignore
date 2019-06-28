@@ -44,3 +44,5 @@ package-lock.json
 *.zip
 *@@
 *.ts
+data/VEL_GRIDS/*
+data/SURFACES/*

@@ -7,10 +7,5 @@ The zip-file is 513.1 MB big. Unzip the archive and proceed.
 Copy the `'Salt_Model_3D/3-D_Salt_Model/SURFACES/'` folder to the `'./data/'`
 directory in this repository
 
-place the file `Salt_Model_3D/3-D_Salt_Model/VEL_GRIDS/SALTF.ZIP` (20.0 MB)
-into `./data/` (or adjust the path in the following cell).
-
-The following cell loads the resistivity model `res-model.lzma` (~14 MB), if
-it already exists in `./data/`, or alternatively loads the velocity model
-`Saltf@@`, carries out the velocity-to-resistivity transform, and stores the
-resistivity model.
+Copy the `'Salt_Model_3D/3-D_Salt_Model/VEL_GRIDS/'` folder to the `'./data/'`
+directory in this repository
