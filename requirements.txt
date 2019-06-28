@@ -1,0 +1,6 @@
+pyvista
+pandas
+joblib
+panel
+matplotlib
+scooby
