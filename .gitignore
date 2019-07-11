@@ -46,3 +46,5 @@ package-lock.json
 *.ts
 data/VEL_GRIDS/*
 data/SURFACES/*
+*.tif
+*.tiff
