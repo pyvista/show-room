@@ -9,3 +9,4 @@ Current Examples:
 
 - [SEG/EAGE Salt Dome](https://nbviewer.jupyter.org/github/pyvista/show-room/blob/master/seg-eage-3d-salt-model.ipynb)
 - [EMAG Global](https://nbviewer.jupyter.org/github/pyvista/show-room/blob/master/EMAG-Global.ipynb)
+- [Thorton et. al. Geological Model](https://nbviewer.jupyter.org/github/pyvista/show-room/blob/master/Thornton_et_al.ipynb)
